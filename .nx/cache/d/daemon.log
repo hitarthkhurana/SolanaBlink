@@ -1639,3 +1639,334 @@
 [NX Daemon Server] - 2024-07-14T00:09:52.043Z - [WATCHER]: Stopping the watcher for /Users/tejasanand/SolanaBlink (sources)
 [NX Daemon Server] - 2024-07-14T00:09:52.043Z - [WATCHER]: Stopping the watcher for /Users/tejasanand/SolanaBlink (outputs)
 [NX Daemon Server] - 2024-07-14T00:09:52.043Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-07-15T03:21:48.023Z - Started listening on: /var/folders/yj/4ryrjtjs5vs80fkbjhdpmm_m0000gn/T/aeb3165be472cd6e3596/d.sock
+[NX Daemon Server] - 2024-07-15T03:21:48.027Z - [WATCHER]: Subscribed to changes within: /Users/tejasanand/SolanaBlink (native)
+[NX Daemon Server] - 2024-07-15T03:21:48.029Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-15T03:21:48.029Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-15T03:21:48.030Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-15T03:21:48.031Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-15T03:21:48.045Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:21:48.045Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:21:48.046Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:21:48.089Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-15T03:21:48.090Z - Time taken for 'total for creating and serializing project graph' 58.01616699999998ms
+[NX Daemon Server] - 2024-07-15T03:21:48.094Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-15T03:21:48.094Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 58. Response time: 5.
+[NX Daemon Server] - 2024-07-15T03:21:48.124Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-07-15T03:21:48.125Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.29487500000001887ms
+[NX Daemon Server] - 2024-07-15T03:21:48.125Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-07-15T03:21:48.125Z - Handled HASH_TASKS. Handling time: 12. Response time: 1.
+[NX Daemon Server] - 2024-07-15T03:21:48.850Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-15T03:21:48.850Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-15T03:21:48.850Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-15T03:21:48.851Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-15T03:21:48.851Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-15T03:21:48.853Z - Time taken for 'total for creating and serializing project graph' 0.4673330000000533ms
+[NX Daemon Server] - 2024-07-15T03:21:48.854Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-15T03:21:48.854Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2024-07-15T03:21:49.504Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-07-15T03:21:49.506Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-15T03:21:49.506Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-07-15T03:21:49.508Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-15T03:21:49.508Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-15T03:21:49.509Z - Time taken for 'total for creating and serializing project graph' 0.5152920000000449ms
+[NX Daemon Server] - 2024-07-15T03:21:49.510Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-15T03:21:49.511Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-07-15T03:21:49.535Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-15T03:21:49.535Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-15T03:21:49.536Z - Time taken for 'total for creating and serializing project graph' 0.46316699999988487ms
+[NX Daemon Server] - 2024-07-15T03:21:49.537Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-15T03:21:49.537Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-07-15T03:21:50.353Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:21:50.354Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 41 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:21:50.457Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:21:50.458Z - [REQUEST]: web/.next/package.json
+[NX Daemon Server] - 2024-07-15T03:21:50.458Z - [REQUEST]: web/.next/server/vendor-chunks/file-uri-to-path.js,web/.next/react-loadable-manifest.json,web/.next/static/chunks/polyfills.js,web/.next/server/pages-manifest.json,web/.next/server/vendor-chunks/@solana.js,web/.next/server/next-font-manifest.js,web/.next/server/middleware-build-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/server/app/api/action/route.js,web/.next/server/server-reference-manifest.json,web/.next/types/app/api/action/route.ts,web/.next/build-manifest.json,web/.next/server/vendor-chunks/uuid.js,web/.next/server/middleware-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/webpack-runtime.js,web/.next/types/package.json,web/.next/server/vendor-chunks/bn.js.js,web/.next/server/vendor-chunks/whatwg-url.js,web/.next/server/vendor-chunks/bigint-buffer.js,web/.next/server/vendor-chunks/text-encoding-utf-8.js,web/.next/app-build-manifest.json,web/.next/server/vendor-chunks/safe-buffer.js,web/.next/server/vendor-chunks/jayson.js,web/.next/server/vendor-chunks/utf-8-validate.js,web/.next/server/vendor-chunks/rpc-websockets.js,web/.next/server/vendor-chunks/bindings.js,web/.next/server/server-reference-manifest.js,web/.next/server/vendor-chunks/superstruct.js,web/.next/server/app-paths-manifest.json,web/.next/server/vendor-chunks/borsh.js,web/.next/server/vendor-chunks/eventemitter3.js,web/.next/server/vendor-chunks/tr46.js,web/.next/server/next-font-manifest.json,web/.next/server/vendor-chunks/node-fetch.js,web/.next/trace,web/.next/server/vendor-chunks/bufferutil.js,web/.next/server/vendor-chunks/webidl-conversions.js,web/.next/server/vendor-chunks/@noble.js,web/.next/server/vendor-chunks/next.js,web/.next/static/development/_ssgManifest.js
+[NX Daemon Server] - 2024-07-15T03:21:50.482Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.30445800000006784ms
+[NX Daemon Server] - 2024-07-15T03:21:50.665Z - [WATCHER]: 17 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:21:50.666Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:21:50.768Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:21:50.768Z - [REQUEST]: web/.next/server/app-paths-manifest.json,web/.next/server/server-reference-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/server/middleware-manifest.json,web/.next/app-build-manifest.json,web/.next/react-loadable-manifest.json,web/.next/trace,web/.next/build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/pages-manifest.json,web/.next/static/chunks/polyfills.js,web/.next/server/middleware-build-manifest.js,web/.next/server/next-font-manifest.js,web/.next/types/package.json,web/.next/server/server-reference-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/server/next-font-manifest.json
+[NX Daemon Server] - 2024-07-15T03:21:50.768Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:21:50.960Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:21:50.960Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:21:50.960Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-15T03:21:50.961Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:21:50.961Z - [REQUEST]: web/.next/react-loadable-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/build-manifest.json,web/.next/server/next-font-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/server/next-font-manifest.js,web/.next/app-build-manifest.json,web/.next/server/middleware-build-manifest.js
+[NX Daemon Server] - 2024-07-15T03:21:50.961Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:21:50.982Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-15T03:21:50.983Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.35041599999976825ms
+[NX Daemon Server] - 2024-07-15T03:21:50.984Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:21:50.984Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:21:50.987Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-15T03:21:50.988Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 22. Response time: 6.
+[NX Daemon Server] - 2024-07-15T03:21:51.086Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:21:51.086Z - [REQUEST]: web/.next/server/app-paths-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/server/next-font-manifest.js,web/.next/server/pages-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/next-font-manifest.json,web/.next/types/package.json,web/.next/server/server-reference-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/server/middleware-manifest.json,web/.next/server/server-reference-manifest.js
+[NX Daemon Server] - 2024-07-15T03:21:51.086Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:21:51.103Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2709170000002814ms
+[NX Daemon Server] - 2024-07-15T03:22:46.524Z - [WATCHER]: 34 file(s) created or restored, 5 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:46.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:46.634Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:46.635Z - [REQUEST]: web/.next/server/vendor-chunks/bindings.js,web/.next/server/vendor-chunks/@tanstack.js,web/.next/server/vendor-chunks/rpc-websockets.js,web/.next/server/webpack-runtime.js,web/.next/server/vendor-chunks/bigint-buffer.js,web/.next/server/vendor-chunks/superstruct.js,web/.next/server/vendor-chunks/goober.js,web/.next/server/vendor-chunks/tr46.js,web/.next/server/vendor-chunks/@noble.js,web/.next/server/vendor-chunks/@solana-mobile.js,web/.next/server/vendor-chunks/utf-8-validate.js,web/.next/server/vendor-chunks/whatwg-url.js,web/.next/server/vendor-chunks/text-encoding-utf-8.js,web/.next/server/vendor-chunks/@tabler.js,web/.next/types/app/layout.ts,web/.next/server/vendor-chunks/next.js,web/.next/server/vendor-chunks/bs58.js,web/.next/server/vendor-chunks/jotai.js,web/.next/server/vendor-chunks/webidl-conversions.js,web/.next/server/vendor-chunks/eventemitter3.js,web/.next/types/app/page.ts,web/.next/server/vendor-chunks/borsh.js,web/.next/server/vendor-chunks/bn.js.js,web/.next/server/vendor-chunks/bufferutil.js,web/.next/server/vendor-chunks/@wallet-standard.js,web/.next/server/vendor-chunks/uuid.js,web/.next/server/vendor-chunks/node-fetch.js,web/.next/server/vendor-chunks/base-x.js,web/.next/server/vendor-chunks/safe-buffer.js,web/.next/server/app/page.js,web/.next/server/vendor-chunks/@solana.js,web/.next/server/vendor-chunks/jayson.js,web/.next/server/vendor-chunks/react-hot-toast.js,web/.next/server/vendor-chunks/file-uri-to-path.js,web/.next/server/app-paths-manifest.json,web/.next/server/pages-manifest.json,web/.next/server/server-reference-manifest.js,web/.next/types/package.json,web/.next/server/server-reference-manifest.json
+[NX Daemon Server] - 2024-07-15T03:22:46.635Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:46.733Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.811083000000508ms
+[NX Daemon Server] - 2024-07-15T03:22:48.804Z - [WATCHER]: 10 file(s) created or restored, 9 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:48.805Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:48.912Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:48.912Z - [REQUEST]: web/.next/server/app/page_client-reference-manifest.js,web/.next/static/css/app/page.css,web/.next/static/css/app/layout.css,web/.next/static/webpack/633457081244afec._.hot-update.json,web/.next/static/chunks/main-app.js,web/.next/static/chunks/_app-pages-browser_node_modules_solana_wallet-adapter-react-ui_lib_esm_index_js.js,web/.next/static/chunks/app/layout.js,web/.next/static/chunks/webpack.js,web/.next/static/chunks/app/page.js,web/.next/static/chunks/app-pages-internals.js,web/.next/react-loadable-manifest.json,web/.next/app-build-manifest.json,web/.next/server/next-font-manifest.json,web/.next/server/next-font-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/server/middleware-build-manifest.js,web/.next/build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/static/development/_ssgManifest.js
+[NX Daemon Server] - 2024-07-15T03:22:48.912Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:49.013Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.31866699999955017ms
+[NX Daemon Server] - 2024-07-15T03:22:49.738Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:49.739Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:49.844Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:49.844Z - [REQUEST]: web/.next/static/webpack/webpack.92d60e25f0443d0e.hot-update.js,web/.next/static/webpack/app/layout.92d60e25f0443d0e.hot-update.js,web/.next/static/webpack/92d60e25f0443d0e.webpack.hot-update.json,web/.next/server/middleware-build-manifest.js,web/.next/app-build-manifest.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/next-font-manifest.json,web/.next/build-manifest.json,web/.next/static/chunks/webpack.js,web/.next/static/development/_buildManifest.js,web/.next/server/next-font-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/static/chunks/app/layout.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/react-loadable-manifest.json
+[NX Daemon Server] - 2024-07-15T03:22:49.844Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:50.102Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.42487500000424916ms
+[NX Daemon Server] - 2024-07-15T03:22:51.198Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:51.202Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:51.272Z - [WATCHER]: web/.next/cache/webpack/server-development/index.pack.gz_ was created or restored
+[NX Daemon Server] - 2024-07-15T03:22:51.272Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:51.303Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:51.303Z - [REQUEST]: web/.next/cache/webpack/server-development/0.pack.gz_,web/.next/cache/webpack/server-development/index.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:22:51.303Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:51.405Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7214170000006561ms
+[NX Daemon Server] - 2024-07-15T03:22:51.662Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:51.665Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:51.768Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:51.768Z - [REQUEST]: web/.next/cache/webpack/client-development/index.pack.gz_,web/.next/cache/webpack/client-development/1.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:22:51.768Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:51.863Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.19812500000261934ms
+[NX Daemon Server] - 2024-07-15T03:22:52.345Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:52.346Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:52.453Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:52.453Z - [REQUEST]: web/.next/cache/webpack/server-development/index.pack.gz.old,web/.next/cache/webpack/server-development/0.pack.gz
+[NX Daemon Server] - 2024-07-15T03:22:52.453Z - [REQUEST]: web/.next/cache/webpack/server-development/0.pack.gz_,web/.next/cache/webpack/server-development/index.pack.gz
+[NX Daemon Server] - 2024-07-15T03:22:52.549Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.20295900000201073ms
+[NX Daemon Server] - 2024-07-15T03:22:52.602Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:52.602Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:52.695Z - [WATCHER]: 2 file(s) created or restored, 1 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:52.695Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:52.711Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:52.711Z - [REQUEST]: web/.next/cache/webpack/server-development/index.pack.gz,web/.next/cache/webpack/client-development/index.pack.gz.old,web/.next/cache/webpack/client-development/index.pack.gz,web/.next/cache/webpack/client-development/1.pack.gz
+[NX Daemon Server] - 2024-07-15T03:22:52.711Z - [REQUEST]: web/.next/cache/webpack/server-development/index.pack.gz_,web/.next/cache/webpack/client-development/index.pack.gz_,web/.next/cache/webpack/client-development/1.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:22:52.833Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.22191599999496248ms
+[NX Daemon Server] - 2024-07-15T03:22:56.858Z - [WATCHER]: 2 file(s) created or restored, 30 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:22:56.865Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:22:57.002Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:22:57.002Z - [REQUEST]: web/.next/server/app/api/action/route.js,web/.next/types/app/api/action/route.ts,web/.next/server/app/page.js,web/.next/server/vendor-chunks/file-uri-to-path.js,web/.next/server/vendor-chunks/bufferutil.js,web/.next/types/app/layout.ts,web/.next/server/vendor-chunks/@solana.js,web/.next/types/app/page.ts,web/.next/server/vendor-chunks/bindings.js,web/.next/server/vendor-chunks/node-fetch.js,web/.next/server/vendor-chunks/jayson.js,web/.next/server/server-reference-manifest.json,web/.next/server/vendor-chunks/whatwg-url.js,web/.next/server/vendor-chunks/text-encoding-utf-8.js,web/.next/server/vendor-chunks/borsh.js,web/.next/server/server-reference-manifest.js,web/.next/server/vendor-chunks/utf-8-validate.js,web/.next/server/vendor-chunks/rpc-websockets.js,web/.next/server/vendor-chunks/webidl-conversions.js,web/.next/server/vendor-chunks/safe-buffer.js,web/.next/server/app-paths-manifest.json,web/.next/server/pages-manifest.json,web/.next/server/vendor-chunks/superstruct.js,web/.next/server/webpack-runtime.js,web/.next/server/vendor-chunks/bigint-buffer.js,web/.next/server/vendor-chunks/bn.js.js,web/.next/server/vendor-chunks/tr46.js,web/.next/server/vendor-chunks/next.js,web/.next/server/vendor-chunks/eventemitter3.js,web/.next/server/vendor-chunks/uuid.js,web/.next/types/package.json,web/.next/server/vendor-chunks/@noble.js
+[NX Daemon Server] - 2024-07-15T03:22:57.002Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:22:57.271Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.4165409999986878ms
+[NX Daemon Server] - 2024-07-15T03:23:10.042Z - [WATCHER]: 5 file(s) created or restored, 11 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:23:10.044Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:23:10.171Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:23:10.171Z - [REQUEST]: web/.next/server/app/not-found_client-reference-manifest.js,web/.next/server/app/_not-found_client-reference-manifest.js,web/.next/static/webpack/webpack.6131e93966ab95c9.hot-update.js,web/.next/static/chunks/app/not-found.js,web/.next/static/webpack/6131e93966ab95c9.webpack.hot-update.json,web/.next/static/development/_buildManifest.js,web/.next/server/next-font-manifest.json,web/.next/server/next-font-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/app-build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/middleware-build-manifest.js,web/.next/react-loadable-manifest.json,web/.next/static/chunks/webpack.js,web/.next/build-manifest.json
+[NX Daemon Server] - 2024-07-15T03:23:10.171Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:23:10.312Z - [WATCHER]: 1 file(s) created or restored, 11 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:23:10.312Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:23:10.312Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 22.227167000004556ms
+[NX Daemon Server] - 2024-07-15T03:23:10.415Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:23:10.415Z - [REQUEST]: web/.next/server/app/not-found.js,web/.next/server/app-paths-manifest.json,web/.next/server/app/page.js,web/.next/types/app/api/action/route.ts,web/.next/server/server-reference-manifest.js,web/.next/types/package.json,web/.next/types/app/page.ts,web/.next/types/app/layout.ts,web/.next/server/webpack-runtime.js,web/.next/server/pages-manifest.json,web/.next/server/vendor-chunks/next.js,web/.next/server/server-reference-manifest.json
+[NX Daemon Server] - 2024-07-15T03:23:10.415Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:23:10.516Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2021250000107102ms
+[NX Daemon Server] - 2024-07-15T03:24:10.275Z - [WATCHER]: web/.next/cache/webpack/client-development/2.pack.gz_ was created or restored
+[NX Daemon Server] - 2024-07-15T03:24:10.282Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:10.395Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:10.395Z - [REQUEST]: web/.next/cache/webpack/client-development/2.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:10.395Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:10.584Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.1592909999890253ms
+[NX Daemon Server] - 2024-07-15T03:24:10.684Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:10.685Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:10.787Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:10.787Z - [REQUEST]: web/.next/cache/webpack/server-development/2.pack.gz_,web/.next/cache/webpack/server-development/1.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:10.787Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:10.897Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.22908299998380244ms
+[NX Daemon Server] - 2024-07-15T03:24:10.974Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:10.974Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:11.029Z - [WATCHER]: web/.next/cache/webpack/client-development/index.pack.gz_ was created or restored
+[NX Daemon Server] - 2024-07-15T03:24:11.030Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:11.076Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:11.076Z - [REQUEST]: web/.next/cache/webpack/client-development/index.pack.gz_,web/.next/cache/webpack/client-development/1.pack.gz_,web/.next/cache/webpack/client-development/2.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:11.076Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:11.189Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.19641699999920093ms
+[NX Daemon Server] - 2024-07-15T03:24:11.280Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:11.280Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:11.382Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:11.382Z - [REQUEST]: web/.next/cache/webpack/server-development/index.pack.gz_,web/.next/cache/webpack/server-development/0.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:11.382Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:11.492Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.22508299999753945ms
+[NX Daemon Server] - 2024-07-15T03:24:11.725Z - [WATCHER]: web/.next/cache/webpack/server-development/1.pack.gz_ was modified
+[NX Daemon Server] - 2024-07-15T03:24:11.725Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:11.858Z - [WATCHER]: web/.next/cache/webpack/server-development/0.pack.gz_ was created or restored
+[NX Daemon Server] - 2024-07-15T03:24:11.858Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:11.930Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:11.930Z - [REQUEST]: web/.next/cache/webpack/server-development/1.pack.gz_,web/.next/cache/webpack/server-development/0.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:11.930Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:12.156Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.18570900001213886ms
+[NX Daemon Server] - 2024-07-15T03:24:12.564Z - [WATCHER]: 3 file(s) created or restored, 1 file(s) modified, 3 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:12.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:12.673Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:12.673Z - [REQUEST]: web/.next/cache/webpack/client-development/index.pack.gz,web/.next/cache/webpack/client-development/index.pack.gz.old,web/.next/cache/webpack/client-development/2.pack.gz,web/.next/cache/webpack/client-development/1.pack.gz
+[NX Daemon Server] - 2024-07-15T03:24:12.673Z - [REQUEST]: web/.next/cache/webpack/client-development/2.pack.gz_,web/.next/cache/webpack/client-development/index.pack.gz_,web/.next/cache/webpack/client-development/1.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:12.807Z - [WATCHER]: 3 file(s) created or restored, 2 file(s) modified, 4 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:12.808Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:12.808Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2764589999860618ms
+[NX Daemon Server] - 2024-07-15T03:24:12.913Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:12.913Z - [REQUEST]: web/.next/cache/webpack/server-development/index.pack.gz.old,web/.next/cache/webpack/server-development/index.pack.gz,web/.next/cache/webpack/server-development/0.pack.gz,web/.next/cache/webpack/server-development/1.pack.gz,web/.next/cache/webpack/server-development/2.pack.gz
+[NX Daemon Server] - 2024-07-15T03:24:12.913Z - [REQUEST]: web/.next/cache/webpack/server-development/2.pack.gz_,web/.next/cache/webpack/server-development/1.pack.gz_,web/.next/cache/webpack/server-development/0.pack.gz_,web/.next/cache/webpack/server-development/index.pack.gz_
+[NX Daemon Server] - 2024-07-15T03:24:13.001Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.19683299999451265ms
+[NX Daemon Server] - 2024-07-15T03:24:56.480Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:24:56.486Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:56.693Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:56.693Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:24:56.693Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:56.749Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3522919999959413ms
+[NX Daemon Server] - 2024-07-15T03:24:56.938Z - [WATCHER]: 3 file(s) created or restored, 17 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:24:56.939Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:57.043Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:57.043Z - [REQUEST]: web/.next/static/webpack/app/layout.3b5bb782468b16f3.hot-update.js,web/.next/static/webpack/webpack.3b5bb782468b16f3.hot-update.js,web/.next/static/webpack/3b5bb782468b16f3.webpack.hot-update.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/middleware-build-manifest.js,web/.next/server/server-reference-manifest.js,web/.next/server/next-font-manifest.json,web/.next/server/pages-manifest.json,web/.next/server/next-font-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/react-loadable-manifest.json,web/.next/server/server-reference-manifest.json,web/.next/static/chunks/webpack.js,web/.next/server/app-paths-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/types/package.json,web/.next/app-build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/build-manifest.json,web/.next/static/chunks/app/layout.js
+[NX Daemon Server] - 2024-07-15T03:24:57.043Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:24:57.131Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3705410000111442ms
+[NX Daemon Server] - 2024-07-15T03:24:59.680Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:24:59.681Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:24:59.885Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:24:59.885Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:24:59.885Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:00.060Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:00.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:00.061Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8785420000203885ms
+[NX Daemon Server] - 2024-07-15T03:25:00.155Z - [WATCHER]: 3 file(s) created or restored, 13 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:00.155Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:00.367Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:00.367Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:00.465Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:00.465Z - [REQUEST]: web/app/api/action/route.ts,web/.next/static/webpack/29d8d153ee9de949.webpack.hot-update.json,web/.next/static/webpack/webpack.29d8d153ee9de949.hot-update.js,web/.next/static/webpack/app/layout.29d8d153ee9de949.hot-update.js,web/.next/build-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/next-font-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/react-loadable-manifest.json,web/.next/app-build-manifest.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/static/chunks/webpack.js,web/.next/server/next-font-manifest.json,web/.next/static/chunks/app/layout.js,web/.next/static/webpack/webpack.6e600e073b8b42cc.hot-update.js,web/.next/static/webpack/app/layout.6e600e073b8b42cc.hot-update.js,web/.next/static/webpack/6e600e073b8b42cc.webpack.hot-update.json
+[NX Daemon Server] - 2024-07-15T03:25:00.465Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:00.567Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8155839999963064ms
+[NX Daemon Server] - 2024-07-15T03:25:06.585Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:06.586Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:06.788Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:06.788Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:25:06.788Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:06.810Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:06.810Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:06.810Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.35816700002760626ms
+[NX Daemon Server] - 2024-07-15T03:25:06.913Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:06.913Z - [REQUEST]: web/.next/static/webpack/app/layout.cc40bd90930e39c3.hot-update.js,web/.next/static/webpack/webpack.cc40bd90930e39c3.hot-update.js,web/.next/static/webpack/cc40bd90930e39c3.webpack.hot-update.json,web/.next/server/middleware-build-manifest.js,web/.next/react-loadable-manifest.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/static/chunks/app/layout.js,web/.next/server/next-font-manifest.json,web/.next/static/development/_ssgManifest.js,web/.next/build-manifest.json,web/.next/app-build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/static/chunks/webpack.js,web/.next/server/next-font-manifest.js
+[NX Daemon Server] - 2024-07-15T03:25:06.913Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:07.003Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.23812500000349246ms
+[NX Daemon Server] - 2024-07-15T03:25:10.466Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:10.469Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:10.500Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:10.501Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:10.671Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:10.671Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:25:10.671Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:10.779Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:10.779Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:10.779Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3250420000113081ms
+[NX Daemon Server] - 2024-07-15T03:25:10.862Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:10.862Z - [WATCHER]: 3 file(s) created or restored, 13 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:11.005Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:11.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:11.182Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:11.182Z - [REQUEST]: web/app/api/action/route.ts,web/.next/static/webpack/webpack.450e02ab5b78c5aa.hot-update.js,web/.next/static/webpack/app/layout.450e02ab5b78c5aa.hot-update.js,web/.next/static/webpack/450e02ab5b78c5aa.webpack.hot-update.json,web/.next/static/development/_ssgManifest.js,web/.next/static/chunks/app/layout.js,web/.next/server/next-font-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/app-build-manifest.json,web/.next/static/chunks/webpack.js,web/.next/server/next-font-manifest.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/build-manifest.json,web/.next/react-loadable-manifest.json,web/.next/static/webpack/webpack.341082d272888d5a.hot-update.js,web/.next/static/webpack/app/layout.341082d272888d5a.hot-update.js,web/.next/static/webpack/341082d272888d5a.webpack.hot-update.json
+[NX Daemon Server] - 2024-07-15T03:25:11.182Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:11.268Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.26900000000023283ms
+[NX Daemon Server] - 2024-07-15T03:25:13.247Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:13.248Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:13.451Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:13.451Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:25:13.451Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:13.551Z - [WATCHER]: 3 file(s) created or restored, 13 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:13.551Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:13.551Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9892499999841675ms
+[NX Daemon Server] - 2024-07-15T03:25:13.626Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:13.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:13.654Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:13.654Z - [REQUEST]: web/.next/static/webpack/webpack.63ba8ea7e00a1ffd.hot-update.js,web/.next/static/webpack/app/layout.63ba8ea7e00a1ffd.hot-update.js,web/.next/static/webpack/63ba8ea7e00a1ffd.webpack.hot-update.json,web/.next/server/next-font-manifest.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/build-manifest.json,web/app/api/action/route.ts,web/.next/server/middleware-react-loadable-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/react-loadable-manifest.json,web/.next/server/next-font-manifest.js,web/.next/app-build-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/static/chunks/webpack.js,web/.next/static/development/_buildManifest.js,web/.next/static/chunks/app/layout.js
+[NX Daemon Server] - 2024-07-15T03:25:13.654Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:13.738Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.20729200000641868ms
+[NX Daemon Server] - 2024-07-15T03:25:13.809Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:13.809Z - [WATCHER]: 3 file(s) created or restored, 13 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:13.914Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:13.914Z - [REQUEST]: web/.next/static/webpack/app/layout.ae74bb1196b46d80.hot-update.js,web/.next/static/webpack/ae74bb1196b46d80.webpack.hot-update.json,web/.next/static/webpack/webpack.ae74bb1196b46d80.hot-update.js,web/.next/server/next-font-manifest.json,web/.next/react-loadable-manifest.json,web/.next/static/development/_ssgManifest.js,web/.next/server/middleware-build-manifest.js,web/app/api/action/route.ts,web/.next/static/chunks/webpack.js,web/.next/static/development/_buildManifest.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/build-manifest.json,web/.next/server/next-font-manifest.js,web/.next/static/chunks/app/layout.js,web/.next/app-build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js
+[NX Daemon Server] - 2024-07-15T03:25:13.914Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:13.990Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.20574999999371357ms
+[NX Daemon Server] - 2024-07-15T03:25:14.005Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:14.005Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:14.109Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:14.109Z - [REQUEST]: web/.next/static/webpack/webpack.53501dec9b45ce6f.hot-update.js,web/.next/static/webpack/app/layout.53501dec9b45ce6f.hot-update.js,web/.next/static/webpack/53501dec9b45ce6f.webpack.hot-update.json,web/.next/react-loadable-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/server/next-font-manifest.json,web/.next/build-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/static/development/_ssgManifest.js,web/.next/static/chunks/app/layout.js,web/.next/app-build-manifest.json,web/.next/static/chunks/webpack.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/next-font-manifest.js,web/.next/server/middleware-react-loadable-manifest.js
+[NX Daemon Server] - 2024-07-15T03:25:14.109Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:14.189Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.25479199999244884ms
+[NX Daemon Server] - 2024-07-15T03:25:15.136Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:15.137Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:15.266Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:25:15.266Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:15.335Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:15.335Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:15.339Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:15.339Z - [REQUEST]: web/app/api/action/route.ts,web/.next/static/webpack/app/layout.54172c13c128e6c9.hot-update.js,web/.next/static/webpack/54172c13c128e6c9.webpack.hot-update.json,web/.next/static/webpack/webpack.54172c13c128e6c9.hot-update.js,web/.next/react-loadable-manifest.json,web/.next/build-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/server/next-font-manifest.js,web/.next/static/chunks/webpack.js,web/.next/static/development/_buildManifest.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/app-build-manifest.json,web/.next/static/development/_ssgManifest.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/static/chunks/app/layout.js,web/.next/server/next-font-manifest.json
+[NX Daemon Server] - 2024-07-15T03:25:15.339Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:15.415Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.2687080000177957ms
+[NX Daemon Server] - 2024-07-15T03:25:19.586Z - [WATCHER]: 0 file(s) created or restored, 29 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:25:19.588Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:25:19.790Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:25:19.791Z - [REQUEST]: web/.next/server/vendor-chunks/@solana.js,web/.next/server/vendor-chunks/eventemitter3.js,web/.next/server/vendor-chunks/jayson.js,web/.next/server/app-paths-manifest.json,web/.next/server/vendor-chunks/tr46.js,web/.next/server/webpack-runtime.js,web/.next/server/vendor-chunks/safe-buffer.js,web/.next/types/app/api/action/route.ts,web/.next/server/vendor-chunks/next.js,web/.next/server/vendor-chunks/bufferutil.js,web/.next/server/vendor-chunks/whatwg-url.js,web/.next/server/vendor-chunks/rpc-websockets.js,web/.next/server/server-reference-manifest.json,web/.next/server/app/api/action/route.js,web/.next/types/package.json,web/.next/server/vendor-chunks/file-uri-to-path.js,web/.next/server/vendor-chunks/webidl-conversions.js,web/.next/server/vendor-chunks/uuid.js,web/.next/server/vendor-chunks/node-fetch.js,web/.next/server/vendor-chunks/text-encoding-utf-8.js,web/.next/server/vendor-chunks/bn.js.js,web/.next/server/vendor-chunks/utf-8-validate.js,web/.next/server/vendor-chunks/bindings.js,web/.next/server/vendor-chunks/borsh.js,web/.next/server/pages-manifest.json,web/.next/server/vendor-chunks/bigint-buffer.js,web/.next/server/vendor-chunks/@noble.js,web/.next/server/vendor-chunks/superstruct.js,web/.next/server/server-reference-manifest.js
+[NX Daemon Server] - 2024-07-15T03:25:19.791Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:25:19.913Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.31679200002690777ms
+[NX Daemon Server] - 2024-07-15T03:26:03.464Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:03.467Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:03.699Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:03.700Z - [WATCHER]: 0 file(s) created or restored, 6 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:03.875Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:03.875Z - [REQUEST]: web/app/api/action/route.ts,web/.next/server/server-reference-manifest.json,web/.next/types/package.json,web/.next/types/app/api/action/route.ts,web/.next/server/pages-manifest.json,web/.next/server/server-reference-manifest.js,web/.next/server/app-paths-manifest.json
+[NX Daemon Server] - 2024-07-15T03:26:03.875Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:03.948Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:03.948Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:03.948Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.0495839999930467ms
+[NX Daemon Server] - 2024-07-15T03:26:04.051Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:04.051Z - [REQUEST]: web/.next/static/webpack/app/layout.013067a865fc1666.hot-update.js,web/.next/static/webpack/013067a865fc1666.webpack.hot-update.json,web/.next/static/webpack/webpack.013067a865fc1666.hot-update.js,web/.next/react-loadable-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/app-build-manifest.json,web/.next/server/next-font-manifest.json,web/.next/static/development/_ssgManifest.js,web/.next/static/development/_buildManifest.js,web/.next/build-manifest.json,web/.next/static/chunks/webpack.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/server/next-font-manifest.js,web/.next/static/chunks/app/layout.js
+[NX Daemon Server] - 2024-07-15T03:26:04.051Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:04.161Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.24387500001466833ms
+[NX Daemon Server] - 2024-07-15T03:26:07.851Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:07.854Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.027Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:08.027Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.057Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:08.057Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:26:08.057Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:08.196Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:08.197Z - [WATCHER]: 0 file(s) created or restored, 8 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:08.198Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.198Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.199Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9012909999873955ms
+[NX Daemon Server] - 2024-07-15T03:26:08.301Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:08.301Z - [REQUEST]: web/.next/static/webpack/b58b767195649524.webpack.hot-update.json,web/.next/static/webpack/app/layout.b58b767195649524.hot-update.js,web/.next/static/webpack/webpack.b58b767195649524.hot-update.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/static/chunks/app/layout.js,web/.next/react-loadable-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/build-manifest.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/app-build-manifest.json,web/.next/server/next-font-manifest.json,web/.next/static/development/_ssgManifest.js,web/.next/server/next-font-manifest.js,web/.next/static/development/_buildManifest.js,web/.next/static/chunks/webpack.js,web/.next/types/app/api/action/route.ts,web/.next/server/app/api/action/route.js,web/.next/server/pages-manifest.json,web/app/api/action/route.ts,web/.next/types/package.json,web/.next/server/server-reference-manifest.js,web/.next/server/server-reference-manifest.json,web/.next/server/app-paths-manifest.json
+[NX Daemon Server] - 2024-07-15T03:26:08.301Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:08.396Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:08.396Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.397Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.30637500001466833ms
+[NX Daemon Server] - 2024-07-15T03:26:08.424Z - [WATCHER]: 0 file(s) created or restored, 6 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:08.424Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:08.499Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:08.500Z - [REQUEST]: web/.next/static/webpack/app/layout.e0ac39fb4cca6211.hot-update.js,web/.next/static/webpack/webpack.e0ac39fb4cca6211.hot-update.js,web/.next/static/webpack/e0ac39fb4cca6211.webpack.hot-update.json,web/.next/server/middleware-react-loadable-manifest.js,web/.next/app-build-manifest.json,web/.next/react-loadable-manifest.json,web/.next/build-manifest.json,web/.next/server/middleware-build-manifest.js,web/.next/static/development/_ssgManifest.js,web/.next/static/chunks/webpack.js,web/.next/server/next-font-manifest.json,web/.next/static/development/_buildManifest.js,web/.next/static/chunks/app/layout.js,web/.next/server/next-font-manifest.js,web/.next/server/app/page_client-reference-manifest.js,web/.next/types/package.json,web/.next/server/server-reference-manifest.js,web/.next/server/pages-manifest.json,web/.next/server/server-reference-manifest.json,web/.next/server/app-paths-manifest.json,web/.next/types/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:26:08.500Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:08.578Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.19437500002095476ms
+[NX Daemon Server] - 2024-07-15T03:26:53.922Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:53.928Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:54.073Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:54.073Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:54.136Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:54.137Z - [REQUEST]: web/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:26:54.137Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:54.303Z - [WATCHER]: web/app/api/action/route.ts was modified
+[NX Daemon Server] - 2024-07-15T03:26:54.303Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:54.303Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.259667000034824ms
+[NX Daemon Server] - 2024-07-15T03:26:54.380Z - [WATCHER]: 3 file(s) created or restored, 12 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:54.380Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:54.572Z - [WATCHER]: 0 file(s) created or restored, 7 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-15T03:26:54.572Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-15T03:26:54.706Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-15T03:26:54.707Z - [REQUEST]: web/app/api/action/route.ts,web/.next/static/webpack/e1e5ca8aae88c8e1.webpack.hot-update.json,web/.next/static/webpack/webpack.e1e5ca8aae88c8e1.hot-update.js,web/.next/static/webpack/app/layout.e1e5ca8aae88c8e1.hot-update.js,web/.next/server/middleware-react-loadable-manifest.js,web/.next/static/chunks/webpack.js,web/.next/static/development/_buildManifest.js,web/.next/server/next-font-manifest.js,web/.next/build-manifest.json,web/.next/react-loadable-manifest.json,web/.next/server/app/page_client-reference-manifest.js,web/.next/server/middleware-build-manifest.js,web/.next/app-build-manifest.json,web/.next/static/chunks/app/layout.js,web/.next/static/development/_ssgManifest.js,web/.next/server/next-font-manifest.json,web/.next/types/package.json,web/.next/server/pages-manifest.json,web/.next/server/app/api/action/route.js,web/.next/server/app-paths-manifest.json,web/.next/server/server-reference-manifest.json,web/.next/server/server-reference-manifest.js,web/.next/types/app/api/action/route.ts
+[NX Daemon Server] - 2024-07-15T03:26:54.707Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-15T03:26:54.801Z - Time taken for 'Load Nx Plugin: /Users/tejasanand/SolanaBlink/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.36037500004749745ms

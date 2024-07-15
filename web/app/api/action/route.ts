@@ -29,10 +29,10 @@ export async function POST(request: Request) {
   const userPubkey = requestBody.account;
   console.log(userPubkey);
   const user = new PublicKey(userPubkey);
-  const connection = new Connection(clusterApiUrl("mainnet-beta"));
+  const connection = new Connection(clusterApiUrl("devnet"));
   // const ix = SystemProgram.transfer({
   //   fromPubkey: userPubkey,
-  //   toPubkey: new PublicKey('some address'),
+  //   toPubkey: new PublicKey("some address"),
   //   lamports: 1,
   // });
   const tx = new Transaction();
